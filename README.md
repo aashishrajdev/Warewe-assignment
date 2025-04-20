@@ -26,7 +26,7 @@ A REST client application built with Next.js and MikroORM, similar to POSTMAN bu
    npm install
    ```
 
-3. Create a `.env` file in the root directory with the following variables:
+3. Create a `.env.local` file in the root directory with the following variables:
 
    ```
    DB_HOST=localhost
